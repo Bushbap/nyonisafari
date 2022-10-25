@@ -3,6 +3,8 @@ body {
 }
 
 .navbar-brand {
+  font-family: 'Dosis', sans-serif;
+  font-size: 30px;
   padding-left: 50px;
 }
 
@@ -13,4 +15,8 @@ body {
 
 .navbar-nav {
   padding-right: 50px;
+}
+
+.contactform {
+  padding: 5% ;
 }
